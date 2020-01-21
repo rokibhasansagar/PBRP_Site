@@ -18,7 +18,7 @@
                                     {% for device_data in site.data.devices %}
                                     {%- assign device = device_data[1] -%}
                                     <tr>
-                                        <td>{{ device_data[0] }}<br><i>{{ device.name }}</i></td>
+                                        <td>{{ device_data[0] }} - <i>{{ device.name }}</i></td>
                                         <td>{{ device.dev }}</td>
                                         <td>{{ device.ver }}</td>
                                         <td>
