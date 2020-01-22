@@ -5,12 +5,12 @@
 
 - name: "Firewolf 🇧🇩"
   image: "images/firewolf_animated.gif"
-  role: "Co-Founder of PBRP <br>UI/UX Developer at PBRP <br>From Bangladesh."
+  role: "Co-Founder of PBRP <br>UI/UX Developer at PBRP <br>From Bangladesh"
   url: "https://t.me/firewolfxda"
 
 - name: "Manjot Sidhu"
   image: "images/dev3.jpg"
-  role: "Co-Founder of PBRP <br>Project Manager and Full stack developer"
+  role: "Co-Founder of PBRP <br>Project Manager and Full Stack Developer"
   url: "https://t.me/manjotsidhu"
 
 - name: "Mohd Faraz"
@@ -20,5 +20,11 @@
 
 - name: "Arbaz Khan"
   image: "images/dev5.jpg"
-  role: "Jack of all trades, master of none, but better than a master of one"
+  role: "Jack of all trades, master of none <br>But better than a master of one"
   url: "https://t.me/papa_ka_prince"
+
+- name: "Rokib Hasan Sagar"
+  image: "images/fr3aky.jpg"
+  role: "CI/CD & Build Engine Maintainer <br>Tech Enthusiast & Handyman <br>Unoffical MediaTek Backer <br>From Kushtia, Bangladesh"
+  url: "https://t.me/fr3akyphantom"
+
