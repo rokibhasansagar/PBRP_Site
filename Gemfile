@@ -1,3 +1,4 @@
 source "https://rubygems.org"
 
-gem "github-pages", "~> 203"
+gem "github-pages", "~> 204"
+gem 'jekyll-feed'

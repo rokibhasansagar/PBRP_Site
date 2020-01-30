@@ -30,6 +30,7 @@ kramdown:
 
 plugins:
   - github-pages
+  - jekyll-feed
 
 # Exclude these files from your production _site
 exclude:
